@@ -1,0 +1,13 @@
+Raspberry Pi:
+Chip: Broadcom BCM2835 SoC full HD multimedia applications processor
+CPU: 700 MHz Low Power ARM1176JZ-F Applications Processor
+GPU: Dual Core VideoCore IV Multimedia Co-Processor
+Memory: 512MB SDRAM
+Ethernet: onboard 10/100 Ethernet RJ45 jack
+USB 2.0: Dual USB Connector
+Video Out: HDMI (1.3 & 1.4) Composite RCA (PAL and NTSC)
+Audio Out: 3.5mm jack, HDMI
+Onboard Storage: SD, MMC, SDIO card slot
+OS: Linux
+Dimensions: 8.6cm x 5.4cm x 1.7cm
+Key: 92dcbcb119c029088ed1f6eb48427f5c3e8c9978
